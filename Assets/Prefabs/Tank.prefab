@@ -207,6 +207,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _tankBody: {fileID: 8533190918975209808}
+  _children:
+  - {fileID: 3118250189819449045}
+  - {fileID: 3118250189819449043}
+  - {fileID: 3118250189819449053}
+  - {fileID: 3118250189819449047}
 --- !u!54 &8533190918975209808
 Rigidbody:
   m_ObjectHideFlags: 0
